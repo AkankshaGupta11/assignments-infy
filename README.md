@@ -1,2 +1,1 @@
-# assignments-infy
-A university wants to automate their admission process. Students are admitted based on marks scored in a qualifying exam. A student is identified by student id, age and marks in qualifying exam. Data are valid, if:  Age is greater than 20 Marks is between 0 and 100 (both inclusive) A student qualifies for admission, if  Age and marks are valid and Marks is 65 or more. python program to represent the students seeking admission in the university.
+Assignments on python programming :- self practice.
